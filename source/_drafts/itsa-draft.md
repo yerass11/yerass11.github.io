@@ -1,4 +1,6 @@
 ---
 title: itsa_draft
-tags:
+tags: 
 ---
+
+#Today we r gona talk about ...
