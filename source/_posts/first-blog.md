@@ -5,6 +5,6 @@ tags: aboutMe
 ---
 #### Hey, my name is Yerassyl and I am iOS Developer from Kazakhtan.
 
-smthhh
+smthhhh
 
 {% asset_img amg.jpeg %}
